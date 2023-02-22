@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,300&display=swap');
+
+.logo-text{
+    font-size: 18px;
+    font-family: 'Shantell Sans', cursive;
+}
+
+header .nav-link{
+    color: white
+}
+
+header .nav{
+    gap: 10px;
+}
+
+body{
+    background: linear-gradient(90deg, #1e0d35,#0f101b);
+}
